@@ -16,7 +16,7 @@ Solved using Artificial Neural Network (ANN)
 
 - Python
 - Pillow
-- Mathplotlib
+- Matplotlib
 - Numpy
 - Pandas
 - Tensorflow
@@ -26,4 +26,6 @@ Solved using Artificial Neural Network (ANN)
 #### Results
 
 Reached a training accuracy of **99.85%** and validation accuracy  of **97.48%**. 
+
+Got a test accuracy of **97.71%** on Analytics Vidhya Platform. 
 
